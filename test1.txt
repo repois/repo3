@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 322B-6F30
-
- Directory of C:\Users\rachi\Desktop\MyProject
-
-07/02/2023  06:38 AM    <DIR>          .
-07/02/2023  06:38 AM    <DIR>          ..
-07/02/2023  06:38 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  388,111,994,880 bytes free
+did some changes
